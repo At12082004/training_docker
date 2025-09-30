@@ -1,1 +1,1 @@
-# training_docker
+# docker-training
